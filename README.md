@@ -1,4 +1,4 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:0891B2&height=220&section=header&text=Kushal%20Kumar%20P%20I&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20CSE%20Undergraduate%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=58&descSize=16" width="100%"/>
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kushall-07&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Kushall-07&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@ Hi! I'm **Kushal Kumar P I**, a Computer Science Engineering student focused on 
 
 I enjoy building intelligent applications that combine **AI models with real software systems** — APIs, databases, agents, geospatial systems and scalable backend architectures.
 
-My current direction is:
+My current engineering direction is:
 
 > **AI/ML → LLMs → RAG → Tool Calling → Agentic AI → Multi-Agent Systems → AI + Backend → Production AI**
 
@@ -425,25 +425,32 @@ Exploring systems that connect sensing, computation and software applications.
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushall-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushall-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kushall-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushall-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kushall-07&theme=tokyonight&hide_border=true" width="70%"/>
+
+<img src="https://streak-stats.demolab.com?user=Kushall-07&theme=tokyonight&hide_border=true" width="70%"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushall-07&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<img src="https://github-profile-3d-contrib.vercel.app/profile/Kushall-07/3d-contrib/profile-night-rainbow.svg" width="95%"/>
+
 </p>
 
 ---
 
-# 🧩 Coding & Problem Solving
+# 💻 Coding & Problem Solving
 
 <p align="center">
 
@@ -459,62 +466,75 @@ I’m continuously strengthening my **Data Structures & Algorithms, problem-solv
 
 # 🎯 Engineering Direction
 
-```text
-                    ┌─────────────────┐
-                    │  Programming    │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │ Machine Learning│
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │ Deep Learning   │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │      LLMs       │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │ RAG + Tool Use  │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │  Agentic AI     │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │ Multi-Agent AI  │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │ AI + Backend    │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │  System Design  │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │ Production AI   │
-                    └─────────────────┘
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/Programming-111827?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/RAG%20%2B%20Tool%20Calling-111827?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-111827?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20%2B%20Backend-111827?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/Production%20AI-111827?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 📚 Currently Learning
 
-* Advanced **LLM orchestration**
-* **Agent architecture & planning**
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 AI Engineering
+
+* Advanced LLM orchestration
+* Agent architecture
+* Planning & reasoning
+* Tool calling
 * Multi-agent communication
 * RAG system design
-* Tool calling & function execution
+* AI evaluation
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Systems Engineering
+
 * Backend scalability
 * Distributed systems
 * System design
-* AI/ML deployment
-* Docker & cloud infrastructure
+* Database architecture
+* API design
+* Docker
+* Cloud deployment
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -526,7 +546,9 @@ I'm interested in opportunities and collaborations around:
 
 ### AI / ML · Agentic AI · LLMs · Computer Vision · Backend Engineering · System Design
 
-<br>
+</p>
+
+<p align="center">
 
 <a href="https://linkedin.com/in/kushalkumarpi">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -544,6 +566,10 @@ I'm interested in opportunities and collaborations around:
 <img src="https://img.shields.io/badge/GITHUB-FOLLOW-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://instagram.com/kushall_07">
+<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -552,9 +578,11 @@ I'm interested in opportunities and collaborations around:
 
 > **Build it. Understand it. Improve it.**
 
-⭐ If you find something useful here, feel free to explore my repositories.
+⭐ Explore my repositories and feel free to connect.
 
 </p>
+
+<!-- ========================= FOOTER ========================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:0891B2&height=120&section=footer"/>
