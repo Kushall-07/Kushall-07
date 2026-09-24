@@ -212,7 +212,7 @@ Next.js · React · Grok · Clerk · Drizzle ORM · Neon PostgreSQL
 
 <h3>
 <a href="https://github.com/Kushall-07/rsg-sphere">
-🛰️ Remote Sensing & Geospatial AI
+🛰️ RAGSphere
 </a>
 </h3>
 
