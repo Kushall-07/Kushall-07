@@ -42,11 +42,11 @@
 
 I'm **Kushal Kumar P I**, a Computer Science Engineering undergraduate focused on **AI Engineering, Agentic AI, Machine Learning, Computer Vision, Backend Engineering and System Design**.
 
-I enjoy building systems where intelligent models are connected to real software infrastructure — from **multi-agent decision systems and LLM applications** to **medical imaging, geospatial intelligence and full-stack applications**.
+I enjoy building systems where intelligent models are connected to real software infrastructure — from **multi-agent decision systems and LLM applications** to **medical imaging, document intelligence and full-stack applications**.
 
 * 🤖 **AI Engineering** — LLMs, RAG, tool calling, agentic systems and multi-agent architectures
 * 🧠 **Machine Learning** — Deep Learning, Computer Vision, medical image segmentation and model evaluation
-* 🌍 **Geospatial AI** — spatial reasoning, satellite-derived data and intelligent decision-support systems
+* 📚 **Document Intelligence** — RAG, semantic retrieval, reranking, classification and AI tutoring
 * 🌐 **Software Engineering** — React, Next.js, FastAPI, Node.js and REST APIs
 * 🗄️ **Data & Infrastructure** — PostgreSQL, PostGIS, MongoDB, Docker and Git
 * 🎓 **Computer Science Engineering** — building strong foundations in DSA, systems and software architecture
@@ -214,32 +214,32 @@ Next.js · React · Grok · Clerk · Drizzle ORM · Neon PostgreSQL
 
 <h3>
 <a href="https://github.com/Kushall-07/rsg-sphere">
-🛰️ RAGSphere
+📚 RAGSphere
 </a>
 </h3>
 
 <p>
-<b>Computer Vision for Earth Observation</b>
+<b>Offline AI Study Companion</b>
 </p>
 
 <p>
-Projects exploring deep learning and computer vision for remote-sensing imagery, image enhancement and geospatial intelligence.
+An intelligent local AI study companion that combines Retrieval-Augmented Generation, document intelligence and an AI tutor to help students learn from their own study materials privately and offline.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=flat-square&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Remote%20Sensing-4F46E5?style=flat-square&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-06B6D4?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Document%20AI-4F46E5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/AI%20Tutor-06B6D4?style=flat-square&labelColor=111827"/>
 </p>
 
 <sub>
-Python · PyTorch · Computer Vision · Remote Sensing · Deep Learning
+Python · Streamlit · ChromaDB · Ollama · SentenceTransformers · PyTorch · scikit-learn · BM25
 </sub>
 
 <br/><br/>
 
 <a href="https://github.com/Kushall-07/rsg-sphere">
-<img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
