@@ -55,6 +55,8 @@ I enjoy building systems where intelligent models are connected to real software
 
 <br/>
 
+---
+
 <div align="center">
 
 <table>
@@ -476,7 +478,7 @@ ESP32 · Sensors · Wi-Fi · Energy Monitoring · Dashboard
 
 <p align="center">
 
-<img src="https://github-profile-3d-contrib.vercel.app/profile/Kushall-07/3d-contrib/profile-night-rainbow.svg" width="96%" alt="3D GitHub contribution graph"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="96%" alt="3D GitHub contribution graph"/>
 
 </p>
 
@@ -530,96 +532,3 @@ AI + Backend Engineering
 System Design
      ↓
 Production AI Systems
-```
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 AI Engineering
-
-* Advanced LLM orchestration
-* Agent architecture
-* Planning & reasoning
-* Tool calling
-* Multi-agent communication
-* RAG system design
-* AI evaluation
-* Production AI patterns
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Systems Engineering
-
-* Backend scalability
-* Distributed systems
-* System design
-* Database architecture
-* API design
-* Docker
-* Cloud infrastructure
-* Reliable software systems
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-I'm interested in opportunities and collaborations around:
-
-### **AI / ML · Agentic AI · LLMs · Computer Vision · Backend Engineering · System Design**
-
-<br/>
-
-<a href="https://linkedin.com/in/kushalkumarpi">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kushalk283@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/KushalKumarPI/">
-<img src="https://img.shields.io/badge/LEETCODE-VIEW-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Kushall-07">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/kushall_07">
-<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-> **Build it. Understand it. Improve it.**
-
-<br/>
-
-⭐ Explore my repositories and feel free to connect.
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:06B6D4&height=120&section=footer" width="100%" alt="Footer"/>
-
-</div>
