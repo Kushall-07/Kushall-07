@@ -458,13 +458,7 @@ ESP32 · Sensors · Wi-Fi · Energy Monitoring · Dashboard
 
 # 📊 GitHub Statistics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kushall-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushall-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</p>
+<p align="center"><img src="./profile/stats.svg" height="180" alt="GitHub Statistics"/><img src="./profile/top-langs.svg" height="180" alt="Top Languages"/></p>
 
 <p align="center">
 
